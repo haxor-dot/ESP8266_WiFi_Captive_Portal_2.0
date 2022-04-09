@@ -45,7 +45,7 @@ The built-in LED will blink 5 times when some credentials are posted.
 
 # Installation (Arduino IDE)
 
-1. Open your <a href="https://www.arduino.cc/en/main/software">Arduino IDE</a> and go to "File -> Preferences -> Boards Manager URLs" and paste the following link:
+1. Open your <a href="https://www.arduino.cc/en/software">Arduino IDE</a> and go to "File -> Preferences -> Boards Manager URLs" and paste the following link:
 ``http://arduino.esp8266.com/stable/package_esp8266com_index.json``
 2. Go to "Tools -> Board -> Boards Manager", search "esp8266" and install esp8266
 3. Go to "Tools -> Board" and select you board"
